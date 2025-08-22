@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gabriel Shimbo
 
 💻 Analista de Segurança da Informação  
-🔐 SecOps | Cloud Security | Automação  
+🔐 Purple Team | SecOps | Cloud Security | Automação  
 
 ---
 
@@ -19,13 +19,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-shtx&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-shtx&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Conecte-se
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-shimbo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-s-90382a248)
 
 ---
 ⭐ Se algum projeto for útil, não esqueça de deixar sua estrela!
